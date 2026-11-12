@@ -103,5 +103,14 @@ The Gold Layer contains three analytical views designed to support business repo
 
 The customer and product dimensions are connected to the sales fact view through their respective keys, supporting analytical queries across customers, products, and sales.
 
+## About Me
+
+Hi! I'm Ashish, currently pursuing an MBA, with an academic background in Economics and a strong interest in Data Analytics.
+
+I'm developing my skills in SQL, Python, and business analytics, with the goal of turning data into meaningful business insights.
+
+I'm also interested in Marketing Analytics and the intersection of business and data.
+
+Thanks for visiting my project!
 
 
